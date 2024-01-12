@@ -1,2 +1,2 @@
 # Mobile-Manufacturer-Data-Analysis
-This is a advance end to end project
+This is an advance end to end SQL project
